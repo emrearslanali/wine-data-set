@@ -1,1 +1,1 @@
-# wine-data-set
+# Cleaning, analyzing, visualizing wine data set
